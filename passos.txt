@@ -1,0 +1,53 @@
+- git init
+- criar arquivo
+- git status
+- git add .
+- git commit
+- git log
+- criar repositório
+- git remote add origin "https://github.com/carolcavallaro/novorepositorio"
+- git remote -v
+- git push -u origin master
+- autorizar usuário ?
+- verificar repositório
+- criar README no repositório
+- git pull
+- criar "arquivo-nao-publicado.txt"
+- criar arquivo txt ".gitignore" e adicionar "arquivo-nao-publicado" no interior
+- git status
+- git add .
+- git commit -m "texto"
+- git push -u origin master
+- fecha o git
+- abre o git de novo
+- git pull
+- git init
+- git checkout -b novabranch
+- fazer modificação navabranch
+- git status
+- git add .
+- git commit -m "texto"
+- git push origin novabranch
+- verificar repositório remoto
+- git checkout master
+- git checkout -b novabranch2
+- fazer alteração na branch
+- git status
+- git add .
+- git commit -m "texto"
+- git push origin novabranch2
+- verificar repositório remoto
+- git checkout master
+- git merge novabranch
+- remover os conflitos manualmente
+- git add .
+- git commit -m "texto"
+- git push origin master/novabranch
+- git tag -a v1.0 -m "texto"
+- git tag
+- git show v1.0
+- git status
+- git push origin --tags
+- verificar repositório remoto
+
+FIM
